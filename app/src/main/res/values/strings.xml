@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="welcome">Filmler</string>
+    <string name="app_name">ImageSlider</string>
+    <string name="todo">Todo</string>
+    <string name="textHeader">The Lord Of The Rings</string>
+    <string name="textDetails">One of the biggest advantages of Crew of Rise is the focused approach. You have a team at your disposal with no excessive distractions. Increased immersion into the project gives an additional focus on the thing which in turn generates much more diverse and inventive insights into the possible solutions.With the focus also comes vastly increased adaptability. Crew of Rise enables the team to be reconfigured at every stage of the project according to the current need and requirements.</string>
+    <string name="okey">Okey</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
